@@ -3,3 +3,46 @@
     background-color: beige;
 
 }
+h1{
+    font-family: Georgia;
+    background-color: crimson;
+    color: white;
+}
+.guide  {
+    
+    background-color: darkblue;
+    color: whitesmoke;
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: whitesmoke;
+}
+thead {
+    background-color: darkblue;
+    color: white;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+tbody {
+    background-color: lightblue;
+}
+h2 {
+    font-family: 'courier new';
+    font-size: 30px;
+}
+div {
+    border: 5px outset black;
+    background-color: whitesmoke;
+}
+p, li, h2, table {
+    margin-left: 20px;
+}
+p.guide {
+    margin-left: 0px;
+}
+body {
+    background-color: grey;
+}
